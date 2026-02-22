@@ -35,7 +35,7 @@ Microsoft Certified: Power BI Data Analyst Associate (2025)
 - **Blockchain Analytics**: Dune Analytics, Nansen, Arkham Intelligence, Glassnode, Flipside Crypto
 - **Data & Programming**: SQL, Python (Pandas, Matplotlib), Excel
 - **Visualization & BI**: Power BI, Tableau
-- **Frontend (this site)**: React, Vite, Tailwind CSS (or your actual styling choice)
+- **Frontend (this site)**: React, Vite & CSS
 - **Other**: Airflow & Snowflake (foundational knowledge)
 
 ## Featured Projects
@@ -59,7 +59,7 @@ More projects & full Dune profile: [dune.com/ranky13](https://dune.com/ranky13)
 
 Open to **remote internships**, **junior analyst roles**, or **freelance on-chain research** at crypto hedge funds, research firms, DAOs, or protocol teams.
 
-- Email: [your.email@example.com] (add real one)
+- Email: bashirrokeeb1234@gmail.com
 - X: [@rankyyy_](https://x.com/rankyyy_)
 - LinkedIn: [linkedin.com/in/rokeeb-bashir](https://www.linkedin.com/in/rokeeb-bashir)
 - Website: [bashirrokeeb.xyz](https://www.bashirrokeeb.xyz)
